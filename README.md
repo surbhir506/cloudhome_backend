@@ -1,6 +1,6 @@
-# 📁 FolderX - Backend
+# 📁 Backend
 
-This is the backend for the FolderX project, a robust file management system designed to streamline your digital workspace.
+This is the backend for the project, a robust file management system designed to streamline your digital workspace.
 
 ## Tech Stack
 
